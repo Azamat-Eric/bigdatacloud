@@ -1,0 +1,23 @@
+:root{
+    --white-gray: #f8f9fa;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    margin: 0;
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ip{
+    width: 80vw;
+    height: 120px;
+    background-color: #ffffff;
+    padding: 30px 30px 30px 30px;
+    font-size: 30px;
+    margin-left: 10vw;
+    border-radius: 10px;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-x: hidden;
+}
